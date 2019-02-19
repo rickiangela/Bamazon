@@ -2,6 +2,8 @@
 
 1. Create a MySQL Database called `bamazon`.
 
+![Bamazon](/images/create-database-bamazon.png)
+
 2. Then create a Table inside of that database called `products`.
 
 3. The products table should have each of the following columns:
